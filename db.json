@@ -1,36 +1,41 @@
 {
- "affirmations": [
-    {
+    "affirmations": [
+      {
         "id": 1,
         "name": "1affirmation",
-        "type": "Daily",
+        "type": "1Daily",
         "description": "You are going to seize the day"
-    }, 
-    {
+      },
+      {
         "id": 2,
         "name": "2affirmation",
-        "type": "Daily",
-        "description": "The day belogns to you"
-    },
-    {
+        "type": "2Daily",
+        "description": "The day belongs to you"
+      },
+      {
         "id": 3,
         "name": "3affirmation",
-        "type": "Daily",
-        "description": "Everything is align for you to succed"
-    },
-    {
+        "type": "3Daily",
+        "description": "Everything is aligned for you to succeed"
+      },
+      {
         "id": 4,
         "name": "4affirmation",
-        "type": "Daily",
+        "type": "4Daily",
         "description": "Put a smile in your face, the day belongs to you"
-
-    },
-    {
+      },
+      {
         "id": 5,
         "name": "5affirmation",
-        "type": "Daily",
+        "type": "5Daily",
         "description": "Only you can make yourself happy"
-
-    }
- ]
-}
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
