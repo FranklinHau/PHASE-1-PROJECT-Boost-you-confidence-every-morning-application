@@ -14,6 +14,10 @@ fetch('http://localhost:3000/affirmations')
             const affirmation = affirmations[randomIndex];
 
             const affirmationElement = document.createElement('p');
-            affirmationElement.textContent = affirmation.description;    
+            affirmationElement.textContent = affirmation.description;   
+            
+            affirmationContainer.innerHTML = '';
+            affirmationContainer.appendChild(affirmationElement);
+    } 
         };
     
