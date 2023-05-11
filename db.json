@@ -1,0 +1,36 @@
+{
+ "affirmations": [
+    {
+        "id": 1,
+        "name": "1affirmation",
+        "type": "Daily",
+        "description": "You are going to seize the day"
+    }, 
+    {
+        "id": 2,
+        "name": "2affirmation",
+        "type": "Daily",
+        "description": "The day belogns to you"
+    },
+    {
+        "id": 3,
+        "name": "3affirmation",
+        "type": "Daily",
+        "description": "Everything is align for you to succed"
+    },
+    {
+        "id": 4,
+        "name": "4affirmation",
+        "type": "Daily",
+        "description": "Put a smile in your face, the day belongs to you"
+
+    },
+    {
+        "id": 5,
+        "name": "5affirmation",
+        "type": "Daily",
+        "description": "Only you can make yourself happy"
+
+    }
+ ]
+}
