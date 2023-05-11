@@ -18,6 +18,9 @@ fetch('http://localhost:3000/affirmations')
             
             affirmationContainer.innerHTML = '';
             affirmationContainer.appendChild(affirmationElement);
-    } 
+
+            button.addEventListener('click', displayRandomAffirmation);
+  })
+    
         };
     
