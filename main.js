@@ -12,5 +12,8 @@ fetch('http://localhost:3000/affirmations')
         function displayRandomAffirmation() {
             const randomIndex = Math.floor(Math.random() * affirmations.length);
             const affirmation = affirmations[randomIndex];
+
+            const affirmationElement = document.createElement('p');
+            affirmationElement.textContent = affirmation.description;    
         };
     
