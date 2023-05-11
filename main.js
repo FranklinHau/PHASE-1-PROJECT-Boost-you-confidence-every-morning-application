@@ -9,5 +9,8 @@ fetch('http://localhost:3000/affirmations')
         const button = document.getElementById('showAffirmationButton');
         const affirmationContainer = document.getElementById('affirmationContainer');
             
+        function displayRandomAffirmation() {
+            const randomIndex = Math.floor(Math.random() * affirmations.length);
+            const affirmation = affirmations[randomIndex];
         };
     
