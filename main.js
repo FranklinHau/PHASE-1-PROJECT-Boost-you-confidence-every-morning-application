@@ -18,6 +18,7 @@ fetch('http://localhost:3000/affirmations')
 
       const affirmationElement = document.createElement('p');
       affirmationElement.textContent = affirmation.description;
+      affirmationElement.classList.add('affirmation');
 
       affirmationContainer.innerHTML = '';
       affirmationContainer.appendChild(affirmationElement);
