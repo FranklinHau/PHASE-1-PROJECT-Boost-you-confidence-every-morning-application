@@ -12,6 +12,13 @@ fetch('http://localhost:3000/affirmations')
     const button = document.getElementById('showAffirmationButton');
     const affirmationContainer = document.getElementById('affirmationContainer');
 
+    function createSmileyElement() {
+      const smiley = document.createElement('span');
+      smiley.textContent = '😊';
+      smiley.classList.add('smiley');
+      return smiley;
+    }
+
     function displayRandomAffirmation() {
       const randomIndex = Math.floor(Math.random() * affirmations.length);
       const affirmation = affirmations[randomIndex];
@@ -22,6 +29,7 @@ fetch('http://localhost:3000/affirmations')
 
       affirmationElement.addEventListener('mouseover', () => {
         affirmationElement.textContent = '';
+       
       })
 
       affirmationContainer.innerHTML = '';
