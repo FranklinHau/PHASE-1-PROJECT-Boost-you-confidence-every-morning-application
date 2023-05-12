@@ -28,5 +28,12 @@ html, body {
     animation: pop-out 2s ease-out;
     animation-fill-mode: forwards;
     font-weight:200
-    
+  }
+
+  #showAffirmationButton {
+    background-color: aqua;
+    color:black;
+    border-radius: 25px;
+    border-bottom: black;
+   
   }
