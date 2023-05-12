@@ -29,7 +29,8 @@ fetch('http://localhost:3000/affirmations')
 
       affirmationElement.addEventListener('mouseover', () => {
         affirmationElement.textContent = '';
-       
+        const smiley = createSmileyElement();
+        affirmationContainer.appendChild(smiley);
       })
 
       affirmationContainer.innerHTML = '';
