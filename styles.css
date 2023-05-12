@@ -25,6 +25,7 @@ html, body {
   }
   
   .affirmation {
-    animation: pop-out 1s ease-out;
+    animation: pop-out 2s ease-out;
+    animation-fill-mode: forwards;
     font-weight:200
   }
