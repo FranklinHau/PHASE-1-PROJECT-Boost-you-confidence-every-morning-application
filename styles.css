@@ -25,6 +25,11 @@ html, body {
     }
   }
   
+  .smiley {
+    display: inline-block;
+    animation: smiley-pop-out 1s ease-out;
+  }
+  
   .affirmation {
     animation: pop-out 2s ease-out;
     animation-fill-mode: forwards;
