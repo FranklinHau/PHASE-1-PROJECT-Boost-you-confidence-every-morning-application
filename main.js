@@ -1,11 +1,11 @@
 fetch('http://localhost:3000/affirmations')
   .then(response => response.json())
   .then(data => {
-    console.log('Fetched data:', data);
+    //console.log('Fetched data:', data);
 
-    if (!Array.isArray(data)) {
-      throw new Error('Fetched data is not in the expected format');
-    }
+   // if (!Array.isArray(data)) {
+   //   throw new Error('Fetched data is not in the expected format');
+   // }
 
     const affirmations = data;
 
