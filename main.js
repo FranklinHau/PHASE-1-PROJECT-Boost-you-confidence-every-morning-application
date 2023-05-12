@@ -20,6 +20,10 @@ fetch('http://localhost:3000/affirmations')
       affirmationElement.textContent = affirmation.description;
       affirmationElement.classList.add('affirmation');
 
+      affirmationElement.addEventListener('mouseover', () => {
+        affirmationElement.textContent = '';
+      })
+
       affirmationContainer.innerHTML = '';
       affirmationContainer.appendChild(affirmationElement);
     }
