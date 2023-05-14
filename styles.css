@@ -4,7 +4,7 @@ html, body {
   }
   
   body {
-    background-color: #A52A2A;
+    background-color: orange;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,9 +38,9 @@ html, body {
   }
 
   #showAffirmationButton {
-    background-color: aqua;
-    color:black;
-    border-radius: 25px;
+    background-color: black;
+    color:white;
+    border-radius: 50px;
     border-bottom: black;
-    font-weight: 300;
+    font-weight: 600;
   }
