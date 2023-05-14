@@ -1,5 +1,5 @@
 PHASE 1 PROJECT :
-Boost you confidence every morning website 
+Boost you confidence every morning application
 
 Every day, when our day starts, and were're drinking our cup of coffee or tea we not only need to boost our phisical energy but also our confidence to go out and confront the daily changing world. This is the reason a create this project, to give someone the confidence/boost to go out and face our daily challenges. 
 
@@ -30,3 +30,6 @@ https://www.geeksforgeeks.org/random-quote-generator-using-html-css-and-javascri
 
 CSS Layout - display: inline-block
 https://www.w3schools.com/Css/css_inline-block.asp
+
+License:
+MIT 
