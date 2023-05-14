@@ -77,8 +77,49 @@
         "name": "13affirmation",
         "type": "13Daily",
         "description": "You were born to succed"
+      },
+      {
+        "id": 14,
+        "name": "14affirmation",
+        "type": "14Daily",
+        "description": "Nothing can stand in your way"
+      },
+      {
+        "id": 15,
+        "name": "15affirmation",
+        "type": "15Daily",
+        "description": "Your not lucky, you're bless"
+      },
+      {
+        "id": 16,
+        "name": "16affirmation",
+        "type": "16Daily",
+        "description": "You will have a blissful day"
+      },
+      {
+        "id": 17,
+        "name": "17affirmation",
+        "type": "17Daily",
+        "description": "Great things are coming your way"
+      },
+      {
+        "id": 18,
+        "name": "18affirmation",
+        "type": "18Daily",
+        "description": "nothing can hold you down"
+      },
+      {
+        "id": 19,
+        "name": "19affirmation",
+        "type": "19Daily",
+        "description": "You were born for greatness"
+      },
+      {
+        "id": 20,
+        "name": "20affirmation",
+        "type": "20Daily",
+        "description": "Your dream will came true"
       }
-     
     ]
   }
   
