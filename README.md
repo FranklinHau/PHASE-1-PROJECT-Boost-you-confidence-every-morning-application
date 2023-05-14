@@ -1,4 +1,4 @@
-# PHASE 1 PROJECT : <br> :Boost you confidence every morning application
+# PHASE 1 PROJECT : <br>Boost you confidence every morning application
 
 Every day, when our day starts, and were're drinking our cup of coffee or tea we not only need to boost our phisical energy but also our confidence to go out and confront the daily changing world. This is the reason a create this project, to give someone the confidence/boost to go out and face our daily challenges. 
 
@@ -11,9 +11,9 @@ Windows: explorer.exe index.html
 View the website at: http://localhost:3000
 
 ## FEATURES:
-Application is simple to navigate 
-1.) click the button to get your daily boost/affirmation message
-2.) click it again if you want another boost/affirmation message
+Application is simple to navigate<br> 
+1.) click the button to get your daily boost/affirmation message<br>
+2.) click it again if you want another boost/affirmation message<br>
 3.) pass your mouse pointer to erase the pop-out affirmation 
 
 ## Credits:
