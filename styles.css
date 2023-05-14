@@ -1,5 +1,5 @@
 html, body {
-    height: 100%;words to boost your day
+    height: 100%;
     margin: 0;
   }
   
@@ -9,8 +9,9 @@ html, body {
     justify-content: center;
     align-items: center;
     border: 10px solid black;
+    
   }
-  
+
   .container {
     text-align: center;
   }
@@ -44,3 +45,5 @@ html, body {
     border-bottom: black;
     font-weight: 600;
   }
+ 
+  
