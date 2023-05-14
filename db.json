@@ -29,7 +29,56 @@
         "name": "5affirmation",
         "type": "5Daily",
         "description": "Only you can make yourself happy"
+      },
+      {
+        "id": 6,
+        "name": "6affirmation",
+        "type": "6Daily",
+        "description": "Get ready for a GREAT day"
+      },
+      {
+        "id": 7,
+        "name": "7affirmation",
+        "type": "7Daily",
+        "description": "Everything is set for you to succed"
+      },
+      {
+        "id": 8,
+        "name": "8affirmation",
+        "type": "8Daily",
+        "description": "Today your luck will double"
+      },
+      {
+        "id": 9,
+        "name": "9affirmation",
+        "type": "9Daily",
+        "description": "Today you will have the best time of you life"
+      },
+      {
+        "id": 10,
+        "name": "10affirmation",
+        "type": "10Daily",
+        "description": "Today Happiness, will came unexpentantly"
+      },
+      {
+        "id": 11,
+        "name": "11affirmation",
+        "type": "11Daily",
+        "description": "Stop worrying, today is your day"
+      },
+      {
+        "id": 12,
+        "name": "12affirmation",
+        "type": "12Daily",
+        "description": "Good things will happen to you"
+      },
+      {
+        "id": 13,
+        "name": "13affirmation",
+        "type": "13Daily",
+        "description": "You were born to succed"
       }
+     
     ]
   }
   
