@@ -1,6 +1,6 @@
 # PHASE 1 PROJECT : <br>Boost you confidence every morning application
 
-Every day, when our day starts, and were're drinking our cup of coffee or tea we not only need to boost our phisical energy but also our confidence to go out and confront the daily changing world. This is the reason a create this project, to give someone the confidence/boost to go out and face our daily challenges. 
+Every day, when our day starts and we're drinking our cup of coffee or tea, we not only need to boost our physical energy but also our confidence to go out and confront the daily changing world. This is the reason I created this project: to give someone the confidence or boost they need to go out and face our daily challenges.
 
 ## INSTALLATION:
 Clone this repository to your computer then cd into it:
@@ -16,7 +16,7 @@ Application is simple to navigate<br>
 2.) click it again if you want another boost/affirmation message<br>
 3.) pass your mouse pointer to erase the pop-out affirmation 
 
-## Credits:
+## CREDITS:
 
 "You Are" Affirmations
 https://www.youtube.com/@YouAreCreators
