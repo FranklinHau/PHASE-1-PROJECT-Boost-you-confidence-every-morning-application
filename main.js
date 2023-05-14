@@ -4,7 +4,7 @@ fetch('http://localhost:3000/affirmations')
     //console.log('Fetched data:', data);
 
    // if (!Array.isArray(data)) {
-   //   throw new Error('Fetched data is not in the expected format');
+   //   throw new Error('not in the expected format');
    // }
 
     const affirmations = data;
