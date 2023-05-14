@@ -22,7 +22,7 @@
         "id": 4,
         "name": "4affirmation",
         "type": "4Daily",
-        "description": "Put a smile in your face, the day belongs to you"
+        "description": "Put a smile on your face, the day belongs to you"
       },
       {
         "id": 5,
@@ -40,7 +40,7 @@
         "id": 7,
         "name": "7affirmation",
         "type": "7Daily",
-        "description": "Everything is set for you to succed"
+        "description": "Everything is set for you to succeed"
       },
       {
         "id": 8,
@@ -52,13 +52,13 @@
         "id": 9,
         "name": "9affirmation",
         "type": "9Daily",
-        "description": "Today you will have the best time of you life"
+        "description": "Today you will have the best time of your life"
       },
       {
         "id": 10,
         "name": "10affirmation",
         "type": "10Daily",
-        "description": "Today Happiness, will came unexpentantly"
+        "description": "Today Happiness will come unexpectedly"
       },
       {
         "id": 11,
@@ -76,7 +76,7 @@
         "id": 13,
         "name": "13affirmation",
         "type": "13Daily",
-        "description": "You were born to succed"
+        "description": "You were born to succeed"
       },
       {
         "id": 14,
@@ -88,7 +88,7 @@
         "id": 15,
         "name": "15affirmation",
         "type": "15Daily",
-        "description": "Your not lucky, you're bless"
+        "description": "You're not lucky, you're blessed"
       },
       {
         "id": 16,
