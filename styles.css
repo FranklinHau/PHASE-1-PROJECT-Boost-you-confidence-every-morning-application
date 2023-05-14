@@ -1,49 +1,74 @@
-html, body {
-    height: 100%;
-    margin: 0;
-  }
-  
-  body {
-    background-color: orange;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 10px solid black;
-    
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 10px solid black;
+  flex-direction: column;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: calc(100% - 20px);
+  width: calc(100% - 20px); 
+  box-sizing: border-box;
+}
+
+@keyframes pop-out {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
   }
 
-  .container {
-    text-align: center;
-  }
-  @keyframes pop-out {
-    0% {
-      opacity: 0;
-      transform: scale(0.5);
-    }
-    100% {
-      opacity: 1;
-      transform: scale(3);
-    }
-  }
-  
-  .smiley {
-    display: inline-block;
-    animation: smiley-pop-out 1s ease-out;
-    font-size: 8rem;
+  100% {
+    opacity: 1;
+    transform: scale(3);
   }
 
-  .affirmation {
-    animation: pop-out 2s ease-out;
-    animation-fill-mode: forwards;
-    font-weight:200
-  }
+}
 
-  #showAffirmationButton {
-    background-color: black;
-    color:white;
-    border-radius: 50px;
-    border-bottom: black;
-    font-weight: 600;
-  }
- 
-  
+.smiley {
+  display: inline-block;
+  animation: smiley-pop-out 1s ease-out;
+  font-size: 8rem;
+}
+
+.affirmation {
+  animation: pop-out 2s ease-out;
+  animation-fill-mode: forwards;
+  font-weight: 200;
+  color: blue;
+}
+
+#showAffirmationButton {
+  background-color: black;
+  color: white;
+  border-radius: 50px;
+  border-bottom: black;
+  font-weight: 600;
+  padding: 5px 10px;
+  font-size: 16px;
+  width: 220px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto; 
+}
+
+.intro-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 0px;
+}
