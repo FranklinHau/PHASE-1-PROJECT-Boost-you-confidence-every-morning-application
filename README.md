@@ -1,4 +1,4 @@
-# PHASE 1 PROJECT : <br>Boost you confidence every morning application
+# PHASE 1 PROJECT : <br>Boost your confidence every morning application
 
 Every day, when our day starts and we're drinking our cup of coffee or tea, we not only need to boost our physical energy but also our confidence to go out and confront the daily changing world. This is the reason I created this project: to give someone the confidence or boost they need to go out and face our daily challenges.
 
